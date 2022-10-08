@@ -1,0 +1,2 @@
+# dashboard
+Bootstrap admin dashboard.
